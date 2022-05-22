@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>01_mouse_bite_19.jpg</filename>
+	<path>C:\Users\menya\Desktop\платы\800_600\train\01_mouse_bite_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse_bite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>443</ymin>
+			<xmax>99</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
